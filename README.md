@@ -1,2 +1,2 @@
 # meeting-powerpoints
-Powerpoints shows during CSS meetings
+Powerpoints shown during CSS meetings
